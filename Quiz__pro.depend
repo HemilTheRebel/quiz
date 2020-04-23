@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587613583 source:e:\oop\quiz__pro\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"que.h"
+
+1587558634 e:\oop\quiz__pro\que.h
+	<iostream>
+	<stdlib.h>
+
